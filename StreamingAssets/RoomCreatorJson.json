@@ -1,0 +1,145 @@
+{
+  "environmentData": [
+    {
+      "index": 1
+    }
+  ],
+  "boothData": [
+    {
+      "modelIndex": 1,
+      "texturesData": [
+        {
+          "index": 1,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467875375Booth_image1.png"
+        },
+        {
+          "index": 2,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467879048Booth_image2.png"
+        },
+        {
+          "index": 3,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467882573Booth_image3.png"
+        },
+        {
+          "index": 4,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467886064Booth_image4.png"
+        },
+        {
+          "index": 5,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467896383Booth_image5.png"
+        },
+        {
+          "index": 6,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467902467Booth_image6.png"
+        },
+        {
+          "index": 7,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467907146Booth_image7.png"
+        },
+        {
+          "index": 8,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467913394Booth_image8.png"
+        },
+        {
+          "index": 9,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467919561Booth_image9.png"
+        },
+        {
+          "index": 10,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467927995Booth_image10.png"
+        },
+        {
+          "index": 11,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467936683Booth_image11.png"
+        },
+        {
+          "index": 12,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467955835Booth_image12.png"
+        },
+        {
+          "index": 13,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467970448Booth_image13.png"
+        },
+        {
+          "index": 14,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615467964331Booth_image14.png"
+        }
+      ],
+      "modelsData": [
+        {
+          "index": 1,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1614168598324LiquidPump_1.zip",
+          "xScale": 1,
+          "yScale": 1,
+          "zScale": 1
+        },
+        {
+          "index": 2,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1614168598324LiquidPump_1.zip",
+          "xScale": 2,
+          "yScale": 2,
+          "zScale": 2
+        },
+        {
+          "index": 3,
+          "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1614168598324LiquidPump_1.zip",
+          "xScale": 1.5,
+          "yScale": 1.5,
+          "zScale": 1.5
+        }
+      ]
+    }
+  ],
+  "exploadedModelData": [
+    {
+      "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615381561972~UpdatedLiquidPump1.zip"
+    }
+  ],
+  "presentationData": [
+    {
+      "index": 1,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide01.png"
+    },
+    {
+      "index": 2,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide02.png"
+    },
+    {
+      "index": 3,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide03.png"
+    },
+    {
+      "index": 4,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide04.png"
+    },
+    {
+      "index": 5,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide05.png"
+    },
+    {
+      "index": 6,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide06.png"
+    },
+    {
+      "index": 7,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide07.png"
+    },
+    {
+      "index": 8,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide08.png"
+    },
+    {
+      "index": 9,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide09.png"
+    },
+    {
+      "index": 10,
+      "link": "https://marwahapplication.s3.ap-south-1.amazonaws.com/Presentations/1/Slide10.png"
+    }
+  ],
+  "videoData": [
+    {
+      "link": "https://uploadtestingbucket.s3.ap-south-1.amazonaws.com/Image/1615200318579~Sample_video.mp4"
+    }
+  ]
+}
